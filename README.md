@@ -3,7 +3,7 @@
 <br>
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D7B40D&center=true&vCenter=true&width=435&lines=+Welcome!+Learn+a+little+about+me">
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D7B40D&center=true&vCenter=true&width=435&lines=+welcome!+Learn+a+little+about+me">
 
 **`FrontEnd/BackEnd Student`**
 
